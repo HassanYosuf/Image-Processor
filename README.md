@@ -15,6 +15,7 @@ XOR cipher employs the XOR logical operation in order to encrypt data. ... Then,
   <img src="Xor-encryption.jpg" width="350" height="auto" title="Xor-encryption">
 </p>
 
+<h3>Application Screenshot</h3>
 <p align="center">
   <img src="ip1.png" width="350" height="auto" title="window">
 </p>
