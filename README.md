@@ -9,6 +9,12 @@ Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation C
 It is a platform dependent API for creating Graphical User Interface (GUI) for java programs.
 <h5>For more</h5>https://www.javatpoint.com/java-awt
 
+<h2>XOR encryption</h2>
+XOR cipher employs the XOR logical operation in order to encrypt data. ... Then, XOR operation is performed using the key so that an encrypted data is created. In order to decrypt, the same key should be used and XOR operation should be run again. XOR operation uses the same key for both encryption and decryption.
+<p align="center">
+  <img src="Xor-encryption.jpg" width="350" height="auto" title="Xor-encryption">
+</p>
+
 <p align="center">
   <img src="ip1.png" width="350" height="auto" title="window">
 </p>
